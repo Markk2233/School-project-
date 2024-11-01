@@ -1,0 +1,33 @@
+﻿  WinSockCLient.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(447,26): error C3646: 'abData': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(447,32): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(447,37): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(472,26): error C3646: 'abData': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(472,32): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(472,37): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(489,26): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(489,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(489,32): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(85,26): error C3646: 'data': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(85,30): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(85,35): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(94,26): error C3646: 'data': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(94,30): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(94,35): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(100,26): error C3646: 'data': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(100,30): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(100,35): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(106,26): error C3646: 'data': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(106,30): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(106,35): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(112,26): error C3646: 'data': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(112,30): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(112,35): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(118,26): error C3646: 'data': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(118,30): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(118,35): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(493,26): error C3646: 'pBuffer': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(493,33): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(493,38): error C2238: unexpected token(s) preceding ';'
+D:\ProgramData\source\repos\WinSockCLient\WinSockCLient\WinSockCLient.cpp(81,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ProgramData\source\repos\WinSockCLient\WinSockCLient\WinSockCLient.cpp(90,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
