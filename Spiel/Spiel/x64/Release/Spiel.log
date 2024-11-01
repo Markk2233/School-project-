@@ -1,0 +1,28 @@
+﻿  Spiel.cpp
+D:\ProgramData\source\repos\Spiel\Spiel\renderer.cpp(39,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Spiel.cpp')
+  
+D:\ProgramData\source\repos\Spiel\Spiel\renderer.cpp(40,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Spiel.cpp')
+  
+D:\ProgramData\source\repos\Spiel\Spiel\renderer.cpp(41,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Spiel.cpp')
+  
+D:\ProgramData\source\repos\Spiel\Spiel\renderer.cpp(42,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Spiel.cpp')
+  
+D:\ProgramData\source\repos\Spiel\Spiel\Das Spiel.cpp(34,61): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'Spiel.cpp')
+  
+D:\ProgramData\source\repos\Spiel\Spiel\Das Spiel.cpp(325,29): warning C4305: '*=': truncation from 'double' to 'float'
+  (compiling source file 'Spiel.cpp')
+  
+D:\ProgramData\source\repos\Spiel\Spiel\Das Spiel.cpp(446,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Spiel.cpp')
+  
+  Generating code
+  9 of 9 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Spiel.vcxproj -> D:\ProgramData\source\repos\Spiel\x64\Release\Spiel.exe

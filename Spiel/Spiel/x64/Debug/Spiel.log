@@ -1,0 +1,9 @@
+﻿  Spiel.cpp
+D:\ProgramData\source\repos\Spiel\Spiel\renderer.cpp(39,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProgramData\source\repos\Spiel\Spiel\renderer.cpp(40,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProgramData\source\repos\Spiel\Spiel\renderer.cpp(41,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProgramData\source\repos\Spiel\Spiel\renderer.cpp(42,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProgramData\source\repos\Spiel\Spiel\Das Spiel.cpp(34,61): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\ProgramData\source\repos\Spiel\Spiel\Das Spiel.cpp(325,26): warning C4305: '*=': truncation from 'double' to 'float'
+D:\ProgramData\source\repos\Spiel\Spiel\Das Spiel.cpp(446,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Spiel.vcxproj -> D:\ProgramData\source\repos\Spiel\x64\Debug\Spiel.exe
