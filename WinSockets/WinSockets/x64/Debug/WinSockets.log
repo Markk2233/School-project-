@@ -1,0 +1,5 @@
+﻿  WinSockets.cpp
+D:\ProgramData\source\repos\WinSockets\WinSockets\WinSockets.cpp(77,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ProgramData\source\repos\WinSockets\WinSockets\WinSockets.cpp(124,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ProgramData\source\repos\WinSockets\WinSockets\WinSockets.cpp(133,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  WinSockets.vcxproj -> D:\ProgramData\source\repos\WinSockets\x64\Debug\WinSockets.exe
